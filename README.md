@@ -102,7 +102,7 @@ Here's the [link](2ECE-A_SANCHEZ_EDA.ipynb#top-performers) to this section of co
   ![image](https://github.com/user-attachments/assets/39f14463-b443-42f2-915d-24ea087d0c3d)
   ![image](https://github.com/user-attachments/assets/94f43be4-6d76-4133-ba01-407753e92584)
 
-- Leading the list for the most playlist appearances is The Weeknd, with approximately 155,000 total appearances. Ed Sheeran follows closely in second with around 150,000, and Taylor Swift secures third with roughly 140,000 appearances. When it comes to chart appearances, the top three remain the same but in a different order: Taylor Swift takes first place, followed by The Weeknd in second, and Ed Sheeran in third. Other artists follow closely behind these top three. To refer to this section, click [here](https://github.com/Prembos/2ECE-A_SANCHEZ_EDA/blob/main/2ECE-A_SANCHEZ_EDA.ipynb#advanced-analysis).
+- Leading the list for the most playlist appearances is The Weeknd, with approximately 155,000 total appearances. Ed Sheeran follows closely in second with around 150,000, and Taylor Swift secures third with roughly 140,000 appearances. When it comes to chart appearances, the top three remain the same but in a different order: Taylor Swift takes first place, followed by The Weeknd in second, and Ed Sheeran in third. Other artists follow closely behind these top three. To refer to this section, click [here](https://github.com/Prembos/2ECE-A_SANCHEZ_EDA/blob/main/2ECE-A_SANCHEZ_EDA.ipynb#-advanced-analysis).
 
   ![image](https://github.com/user-attachments/assets/e147e891-8e29-4257-bb57-55426dfb81e9)
 
