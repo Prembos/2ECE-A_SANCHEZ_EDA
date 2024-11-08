@@ -53,6 +53,6 @@ In this deliverable, you will perform an exploratory data analysis (EDA) on a da
   
   ![image](https://github.com/user-attachments/assets/38f91c62-96b7-4f96-9b1e-efb3ea8b1689)
   
-Additionally, there are missing values. 50 in "in_shazam_charts" and 95 in "keys". For more details, please visit this [section](2ECE-A_SANCHEZ_EDA/2ECE-A_SANCHEZ_EDA.ipynb/#how-many-rows-and-columns-does-the-dataset-contain)
+Additionally, there are missing values. 50 in "in_shazam_charts" and 95 in "keys". For more details, please visit this [section](2ECE-A_SANCHEZ_EDA.ipynb/#how-many-rows-and-columns-does-the-dataset-contain).
 
      
